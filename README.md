@@ -1,9 +1,9 @@
 
 
-<img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/mohit.gif?token=AMZNCSFPBL6JOZHNNZFTHVDBMR2I4" width="70%">
+<img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/mohit.gif" width="70%">
 
 
-## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif?token=AMZNCSD2OZTNCHDZDIOJAIDBMRXOE" width="30px"> I am Mohit Kumar !
+## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I am Mohit Kumar !
 <br>
 
  <p>
@@ -34,7 +34,7 @@
 <p>
   <em>
     Hello, I am Mohit Kumar an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif?token=AMZNCSHF4FIF6OXAT3JBYMLBMR724" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Bring an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
+    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Bring an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
 </p>
  
 <br>
