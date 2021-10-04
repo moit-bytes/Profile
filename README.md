@@ -33,7 +33,7 @@
 
 <p>
   <em>
-    Hello, I am Mohit Kumar an <b> undergraduate student </b> from <a target="_blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
+    Hello, I am Mohit Kumar an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
     <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif?token=AMZNCSHF4FIF6OXAT3JBYMLBMR724" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Bring an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
 </p>
  
@@ -108,11 +108,11 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a target="_blank" href="https://github.com/moit-bytes"><img src="https://img.shields.io/badge/-moitbytes.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a target="_blank" href="https://linkedin.com/in/moitbytes"><img src="https://img.shields.io/badge/-Mohit%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:mohitkumar.projects@gmail.com"><img src="https://img.shields.io/badge/-mohitkumar.projects@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.codechef.com/users/moitbytes_1"><img src="https://img.shields.io/badge/-moitbytes_1-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/moitbytes"><img src="https://img.shields.io/badge/-moitbytes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a target="blank" href="https://github.com/moit-bytes"><img src="https://img.shields.io/badge/-moitbytes.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a target="blank" href="https://linkedin.com/in/moitbytes"><img src="https://img.shields.io/badge/-Mohit%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a target="blank" href="mailto:mohitkumar.projects@gmail.com"><img src="https://img.shields.io/badge/-mohitkumar.projects@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a target="blank" href="https://www.codechef.com/users/moitbytes_1"><img src="https://img.shields.io/badge/-moitbytes_1-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a target="blank" href="https://twitter.com/moitbytes"><img src="https://img.shields.io/badge/-moitbytes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
