@@ -43,7 +43,7 @@
  
 - 🔭 I’m currently working on development of native apps using Android Studio
 
-- 🌱 I’m interested in Data Analytis and am working on several projects to sharpen my analytical skills.
+- 🌱 I’m interested in Data Analytics and am working on several projects to sharpen my analytical skills.
 
 - 👯 I’m looking to collaborate with people of similar mind and work on some projects. 
 
