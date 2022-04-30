@@ -18,7 +18,7 @@
 
 
 <p>
-<a href="https://www.linkedin.com/in/moitbytes/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="moitbytes" height="40" width="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/moitbytes/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="moitbytes" height="40" width="40" /></a> &nbsp;
 <a href="https://www.codechef.com/users/moitbytes_1" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="moitbytes_1" height="40" width="40" /></a>  &nbsp;
 <a href="https://codeforces.com/profile/moitbytes" target="blank"><img align="center" src="https://1.bp.blogspot.com/-8skaizO2B04/Wnw6rqD8qlI/AAAAAAAABRA/dXqVYGqjZ2Eeeo3SV-A_9cGMtgQ7LhomwCPcBGAYYCw/s1600/codeforce.png" alt="moitbytes" height="40" width="40" /></a>  &nbsp;  
 <a href="https://www.hackerrank.com/moitbytes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="moitbytes" height="40" width="40" /></a>&nbsp;
