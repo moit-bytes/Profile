@@ -34,7 +34,7 @@
 <p>
   <em>
     Hello, I am Mohit Kumar an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Being an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
+    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>full stack developer</b> who likes to develop several exciting applications that are capable to solve some real world issues. &nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Being an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
 </p>
  
 <br>
