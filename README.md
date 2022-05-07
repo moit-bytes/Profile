@@ -14,7 +14,7 @@
 
 
 <hr>
-<h3>Competitive Coder | Data Scientist | Android Developer | Backend Developer</h3>
+<h3>Competitive Coder | Full Stack Developer | Data Scientist | Android Developer </h3>
 
 
 <p>
