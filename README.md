@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/mohit.gif" width="70%">
+<img src="https://github.com/moit-bytes/moit-bytes/blob/main/mohit.gif" width="70%">
 
 
 ## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I am Mohit Kumar !
